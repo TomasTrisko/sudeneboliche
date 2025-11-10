@@ -1,1 +1,1 @@
-# sudeneboliche
+# sude nebo liche
