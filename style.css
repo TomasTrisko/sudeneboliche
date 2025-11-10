@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #f7f7f7;
+  }
+  
+  form {
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    display: inline-block;
+  }
+  
+  input {
+    padding: 8px;
+    margin: 5px;
+    width: 150px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  #result {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
